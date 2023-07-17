@@ -2,6 +2,6 @@ version: '3.9'
 
 services:
   web:
-    image: "gurudathkote/node-app-guru:latest"
+    image: "gurudathkote/node-app-guru"
     ports:
       - "8000:8000"
